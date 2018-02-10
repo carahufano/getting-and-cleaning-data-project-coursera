@@ -15,7 +15,7 @@ My submission for the course project in Coursera - Module 3. The "run_analysis.R
 
 6) Expands the names in feature info for readability
 
-7)Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
+7) Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 8) The end result is produced in the file tidy.txt.
 
